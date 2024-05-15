@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 food = ["apple", "coconut", "banana"]
 print(food)
 print(food[0])

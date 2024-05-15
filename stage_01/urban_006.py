@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 tupel_1 = 1, 2, 3, 4
 print(tupel_1)
 tupel_2 = 1, 2, 3, 4

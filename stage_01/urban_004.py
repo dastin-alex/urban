@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 name = input("Введите Ваше имя: ")
 print(name, type(name))
 print('Здравствуйте,', name)

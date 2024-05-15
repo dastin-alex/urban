@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 name = "Urban"
 print(name,type(name))
 name = 5

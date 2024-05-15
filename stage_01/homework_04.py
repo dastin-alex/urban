@@ -9,12 +9,14 @@
 # 6)	вывести на экран изменения списка mutable_list.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Программа :
+# -*- coding: utf-8 -*-
 
 immutable_var = 'tupel', False, 3.5, 0, [1, 2]
 print('tulip     =', immutable_var)
 mutable_list = [1, 2]
 print('list      =', mutable_list)
-mutable_list[0] = 3; mutable_list[1] = 4
+mutable_list[0] = 3
+mutable_list[1] = 4
 print('new list  =', mutable_list)
 immutable_var = immutable_var + tuple(mutable_list)
 print('new tulip =', immutable_var)

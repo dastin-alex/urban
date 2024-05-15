@@ -1,27 +1,29 @@
+# -*- coding: utf-8 -*-
+
 print(5)
-print(type(5))          # <class 'int'> integer
-print(5 + 5)            # +             сложение
-print(5 - 5)            # -             вычитание
-print(5 * 5)            # *             умножение
-print(5 / 5)            # /             деление
-print(5 // 5)           # //            целочисленное деление
-print(type(5 / 5))      # <class 'float'>
-print(type(5 // 5))     # <class 'int'>
-print(5 % 5)            # %             остаток от деления
-print(5 ** 5)           # **            возведение в степень
+print(type(5))              # <class 'int'> integer
+print(5 + 5)                # +             сложение
+print(5 - 5)                # -             вычитание
+print(5 * 5)                # *             умножение
+print(5 / 5)                # /             деление
+print(5 // 5)               # //            целочисленное деление
+print(type(5 / 5))          # <class 'float'>
+print(type(5 // 5))         # <class 'int'>
+print(5 % 5)                # %             остаток от деления
+print(5 ** 5)               # **            возведение в степень
 print(12.0)
-print(type(12.0))       # <class 'float'>
-print(12.0 + 5)         # +             сложение
-print(12.0 - 5)         # -             вычитание
-print(12.0 * 5)         # *             умножение
-print(12.0 / 5)         # /             деление
-print(12.0 // 5)        # //            целочисленное деление
-print(type(12.0 / 5))   # <class 'float'>
-print(type(12.0 // 5))  # <class 'float'>
-print(12.0 % 5)         # %             остаток от деления
-print(12.0 ** 5)        # **            возведение в степень
-print(2.0 + 2.0)        # +             сложение
-print(2.0 + 2)          # +             сложение
+print(type(12.0))           # <class 'float'>
+print(12.0 + 5)             # +             сложение
+print(12.0 - 5)             # -             вычитание
+print(12.0 * 5)             # *             умножение
+print(12.0 / 5)             # /             деление
+print(12.0 // 5)            # //            целочисленное деление
+print(type(12.0 / 5))       # <class 'float'>
+print(type(12.0 // 5))      # <class 'float'>
+print(12.0 % 5)             # %             остаток от деления
+print(12.0 ** 5)            # **            возведение в степень
+print(2.0 + 2.0)            # +             сложение
+print(2.0 + 2)              # +             сложение
 print('Hello, world!')
 print("Hello, world!")
 print(type('Hello, world!'))

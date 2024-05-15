@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 name_1 = 'Denis'
 name_2 = "Denis"
 print('Hello, ' + name_1 + '!')
