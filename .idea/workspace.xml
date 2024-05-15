@@ -4,35 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e14ed18-b95e-437a-bf5a-8f86f6ce89a1" name="Changes" comment="появилась жучка">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/urban_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_01/homework_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_01/module1hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_01/urban_007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/homework_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/urban_008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/urban_009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/urban_010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/urban_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_02/urban_012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_00.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/homework_00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/homework_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/homework_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/homework_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/homework_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_000.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_005.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage_01/urban_006.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_01/urban_006.py" afterDir="false" />
+    <list default="true" id="1e14ed18-b95e-437a-bf5a-8f86f6ce89a1" name="Changes" comment="правки модуля 2">
+      <change afterPath="$PROJECT_DIR$/stage_02/homework_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +52,7 @@
     "Python.homework_03.executor": "Run",
     "Python.homework_04.executor": "Run",
     "Python.homework_05.executor": "Run",
+    "Python.homework_07.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module1hard.executor": "Run",
     "Python.urban_000.executor": "Run",
@@ -207,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714404671519</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="правки модуля 2">
+      <option name="closed" value="true" />
+      <created>1715776686298</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715776686298</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,6 +199,7 @@
     <MESSAGE value="появилась бабуля" />
     <MESSAGE value="появилась внучка" />
     <MESSAGE value="появилась жучка" />
-    <option name="LAST_COMMIT_MESSAGE" value="появилась жучка" />
+    <MESSAGE value="правки модуля 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки модуля 2" />
   </component>
 </project>
