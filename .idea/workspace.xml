@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e14ed18-b95e-437a-bf5a-8f86f6ce89a1" name="Changes" comment="правки модуля 2">
-      <change afterPath="$PROJECT_DIR$/stage_02/homework_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage_02/homework_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage_02/homework_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage_02/module2hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2flD3vC9FrfIZwnF3f2i9lWn57C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,8 +57,12 @@
     "Python.homework_04.executor": "Run",
     "Python.homework_05.executor": "Run",
     "Python.homework_07.executor": "Run",
+    "Python.homework_08.executor": "Run",
+    "Python.homework_09.executor": "Run",
+    "Python.homework_10.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module1hard.executor": "Run",
+    "Python.module2hard.executor": "Run",
     "Python.urban_000.executor": "Run",
     "Python.urban_001.executor": "Run",
     "Python.urban_002.executor": "Run",
@@ -190,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715776686298</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="правки модуля 2">
+      <option name="closed" value="true" />
+      <created>1715777914432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715777914432</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
